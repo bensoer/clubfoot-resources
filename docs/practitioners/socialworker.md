@@ -1,4 +1,4 @@
-# What Is A Social Worker ?
+## What Is A Social Worker ?
 A social worker is a professional who helps people navigate social, emotional, financial, and health-related challenges by providing support, advocacy, and resources. They work in a variety of settings, including healthcare, mental health, child welfare, and community services.
 
 What They Do:

@@ -1,4 +1,4 @@
-# What Is A Podiatrist ?
+## What Is A Podiatrist ?
 A podiatrist is a doctor who specializes in diagnosing and treating conditions affecting the feet, ankles, and lower legs. They can provide medical and surgical care for issues like:
 
 * Foot pain and deformities (e.g., flat feet, high arches, bunions, hammertoes, clubfoot)

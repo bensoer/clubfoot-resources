@@ -33,12 +33,15 @@ nav:
     - Pedorthist: practitioners/pedorthist.md
     - Physiotherapist: practitioners/physiotherapist.md
     - Podiotrist: practitioners/podiatist.md
+    - Orthopedic Surgeon: practitioners/orthopedic-surgeon.md
     - Orthotist: practitioners/orthotist.md
     - Occupational Therapist: practitioners/occupationaltherapist.md
     - Social Worker: practitioners/socialworker.md
+    - Therapist: practitioners/therapist.md
   - Guides:
     - Home: guides/index.md
     - guides/how-to-dtc.md
+    - guides/lfa-in-bc-can.md
   - Support: support.md
   - Other Resources: otherresources.md
 

@@ -1,4 +1,4 @@
-# What Is An Occupational Therapist ?
+## What Is An Occupational Therapist ?
 An occupational therapist (OT) is a healthcare professional who helps people develop, regain, or adapt their ability to perform daily activities (occupations) when they are affected by injury, disability, or chronic conditions. They focus on functional independence in areas like:
 
 * Self-care (e.g., dressing, cooking, hygiene)
